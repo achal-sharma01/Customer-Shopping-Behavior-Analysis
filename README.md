@@ -8,7 +8,7 @@ This project analyzes 3,900+ customer transactions to uncover revenue drivers, p
 
 **Python (EDA) → SQL (Business Analysis) → Power BI (Dashboard) → Report & Presentation**
 
-📄 [View Full Report](./Report_Analysis.pdf) · 📊 [View Presentation](./PPT.pdf) · 📈 [View Dashboard](./Dashboard.pdf)
+📄 [View Full Report](./Report_Analysis.pdf) · 📊 [View Presentation](./PPT.pdf) · 📈 [View Dashboard Screenshort](./Dashboard_SS.pdf)
 
 ## 📂 Dataset
 
