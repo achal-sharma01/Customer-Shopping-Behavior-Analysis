@@ -8,6 +8,8 @@ This project analyzes 3,900+ customer transactions to uncover revenue drivers, p
 
 **Python (EDA) → SQL (Business Analysis) → Power BI (Dashboard) → Report & Presentation**
 
+📄 [View Full Report](./Report_Analysis.pdf) · 📊 [View Presentation](./PPT.pdf)
+
 ## 📂 Dataset
 
 - 3,900 rows, 18+ features
@@ -51,8 +53,8 @@ Built an interactive dashboard featuring:
 - Filters for gender, category, and shipping type
 
 **4. Final Report & Presentation**
-- Compiled insights into a PDF report
-- Built a recruiter-friendly presentation summarizing findings
+- 📄 [Report_Analysis.pdf](./Report_Analysis.pdf) — full written analysis with all business questions and insights
+- 📊 [PPT.pdf](./PPT.pdf) — recruiter-friendly presentation summarizing key findings
 
 ## 📈 Key Insights
 
@@ -71,4 +73,4 @@ Building reporting systems and analyzing data to support real business decisions
 [LinkedIn](https://linkedin.com/in/achal-sharma-89063336a)
 
 ---
-⭐ If you found this project useful, consider starring the repository.
+⭐ If you found this project useful, consider starring
