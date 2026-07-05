@@ -54,7 +54,7 @@ Built an interactive dashboard featuring:
 
 **4. Final Report & Presentation**
 - 📄 [Report_Analysis.pdf](./Report_Analysis.pdf) — full written analysis with all business questions and insights
-- 📊 [PPT.pdf](./PPT.pdf) — recruiter-friendly presentation summarizing key findings
+- 📊 [PPT.pdf](./PPT.pdf) — Presentation summarizing key findings
 
 ## 📈 Key Insights
 
